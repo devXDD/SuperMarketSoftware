@@ -1,0 +1,14 @@
+Order ID=1
+Product ID=2
+Total Amount=4545.0
+Suplier Name=Dev
+Suplier Address=Akota
+Delivery Date=02/02/2020
+x-x-x-x-x-x-x
+Order ID=2
+Product ID=3
+Total Amount=90.0
+Suplier Name=Nyt
+Suplier Address=Kota
+Delivery Date=01/01/2020
+x-x-x-x-x-x-x

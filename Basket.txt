@@ -1,0 +1,10 @@
+1 Fruity 2.0 2.0 50 10 30 Enough Stock Eatery null 
+_________
+2 Doritos 10.0 5.0 50 30 100 Enough Stock Eatery null 
+_________
+3 Camera 50.0 600.0 500 20 900 Enough Stock Electronics null 
+_________
+1 Fruity 2.0 2.0 50 10 30 Enough Stock Eatery null 
+_________
+2 Doritos 10.0 5.0 50 30 100 Enough Stock Eatery null 
+_________
